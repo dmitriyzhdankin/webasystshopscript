@@ -1,0 +1,27 @@
+.copy-products a {
+    text-decoration: none;
+}
+
+/** REVIEW EDIT */
+.s-review-edit.small.inline-link {
+    display: inline-block;
+    margin-left: 10px;
+}
+#reviewEditContainer textarea {
+    width: 75%;
+}
+/** REVIEW EDIT END */
+
+/** Mass Image Delete */
+.mass-image-delete-checkbox {
+    position: absolute;
+    right: 15px;
+    top:5px;
+}
+.mass-deleting {
+    border: 1px solid red;
+}
+.mass-select-all-image-container, .mass-select-all-image {
+    margin: 0 10px;
+}
+/** Mass Image Delete END*/
