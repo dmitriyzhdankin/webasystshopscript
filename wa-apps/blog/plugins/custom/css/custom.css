@@ -1,0 +1,9 @@
+/** Comment EDIT */
+.b-comment-edit.small.inline-link {
+    display: inline-block;
+    margin-left: 10px;
+}
+#reviewEditContainer textarea {
+    width: 75%;
+}
+/** Comment EDIT END */
